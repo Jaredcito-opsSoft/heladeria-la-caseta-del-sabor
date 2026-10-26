@@ -1,0 +1,1352 @@
+{
+ "url": "http://localhost:3000",
+ "at": "2026-10-26T03:12:35.194Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    0.56
+   ],
+   "motion": {
+    "elements": 21,
+    "css": 21,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 900,
+     "screens": 1,
+     "words": 44,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 8,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fraspado-hero.webp&w=1080&q",
+      "image?url=%2Fimages%2Fraspado-hero.webp&w=1080&q"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "la caseta",
+     "words": 2,
+     "chars": 9,
+     "lines": 2,
+     "size": 126.7,
+     "vw": 8.8,
+     "font": "Bricolage Grotesque",
+     "weight": 800,
+     "tracking": -0.005,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.43,
+     "top": 198,
+     "tag": "span",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "El raspado es primero.",
+     "words": 4,
+     "lines": 2,
+     "size": 74.9,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "la caseta del sabor",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 28.8,
+      "vw": 2,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.85,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.1,
+      "top": 55,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "la caseta",
+      "words": 2,
+      "chars": 9,
+      "lines": 2,
+      "size": 126.7,
+      "vw": 8.8,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.005,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.43,
+      "top": 198,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "del sabor",
+      "words": 2,
+      "chars": 9,
+      "lines": 2,
+      "size": 126.7,
+      "vw": 8.8,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.005,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.43,
+      "top": 416,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "El raspado es primero.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 74.9,
+      "vw": 5.2,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 478,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 4,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.76,
+       "mono": false
+      },
+      {
+       "family": "Bricolage Grotesque",
+       "share": 0.24,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      19,
+      22,
+      29,
+      75,
+      127
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": null,
+     "measureChars": null,
+     "max": {
+      "size": 126.7,
+      "vw": 8.8,
+      "font": "Bricolage Grotesque",
+      "text": "la caseta"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.33,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fff4dd",
+     "bodyBgHsl": {
+      "h": 41,
+      "s": 1,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fff4dd",
+       "top": 0,
+       "hsl": {
+        "h": 41,
+        "s": 1,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#71cbc4",
+       "top": 0,
+       "hsl": {
+        "h": 175,
+        "s": 0.46,
+        "l": 0.62
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#4c251e",
+       "share": 0.83
+      },
+      {
+       "color": "#d82643",
+       "share": 0.12
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#d82643",
+      "hsl": {
+       "h": 350,
+       "s": 0.7,
+       "l": 0.5
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 53,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Ver sabores ↗",
+      "Pedir por WhatsApp ↗"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.68
+     },
+     {
+      "type": "img",
+      "ratio": 0.68
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 141,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 900,
+    "margins": {
+     "left": 147,
+     "right": 58
+    },
+    "sections": [
+     {
+      "sel": "header.hero-header",
+      "tag": "header",
+      "top": 0,
+      "height": 141,
+      "words": 2,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 1293,
+      "right": 58,
+      "textLeft": 1293,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.product-stage",
+      "tag": "div",
+      "top": 34,
+      "height": 1028,
+      "words": 0,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 147,
+      "right": 279,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.ingredient-field",
+      "tag": "div",
+      "top": 0,
+      "height": 900,
+      "words": 0,
+      "media": 0,
+      "middle": 412,
+      "heading": null,
+      "left": 190,
+      "right": 118,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": true,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [],
+    "edgeText": [],
+    "edges": [],
+    "leftBlocks": 0,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0.07,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 120,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    0.63
+   ],
+   "motion": {
+    "elements": 21,
+    "css": 21,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 1024,
+     "screens": 1,
+     "words": 44,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 8,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fraspado-hero.webp&w=1080&q",
+      "image?url=%2Fimages%2Fraspado-hero.webp&w=1080&q"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "la caseta",
+     "words": 2,
+     "chars": 9,
+     "lines": 1,
+     "size": 67.6,
+     "vw": 8.8,
+     "font": "Bricolage Grotesque",
+     "weight": 800,
+     "tracking": -0.009,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.77,
+     "top": 435,
+     "tag": "span",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "El raspado es primero.",
+     "words": 4,
+     "lines": 2,
+     "size": 49,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "la caseta",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 67.6,
+      "vw": 8.8,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.009,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 435,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "del sabor",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 67.6,
+      "vw": 8.8,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.009,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.77,
+      "top": 491,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "El raspado es primero.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 49,
+      "vw": 6.4,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.48,
+      "top": 579,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 3,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.76,
+       "mono": false
+      },
+      {
+       "family": "Bricolage Grotesque",
+       "share": 0.24,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      13,
+      14,
+      15,
+      17,
+      19,
+      22,
+      49,
+      68
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": null,
+     "measureChars": null,
+     "max": {
+      "size": 67.6,
+      "vw": 8.8,
+      "font": "Bricolage Grotesque",
+      "text": "la caseta"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.33,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fff4dd",
+     "bodyBgHsl": {
+      "h": 41,
+      "s": 1,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fff4dd",
+       "top": 0,
+       "hsl": {
+        "h": 41,
+        "s": 1,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#71cbc4",
+       "top": 0,
+       "hsl": {
+        "h": 175,
+        "s": 0.46,
+        "l": 0.62
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#4c251e",
+       "share": 0.83
+      },
+      {
+       "color": "#d82643",
+       "share": 0.12
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#d82643",
+      "hsl": {
+       "h": 350,
+       "s": 0.7,
+       "l": 0.5
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 53,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Ver sabores ↗",
+      "Pedir por WhatsApp ↗"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.67
+     },
+     {
+      "type": "img",
+      "ratio": 0.67
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 87,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 1024,
+    "margins": {
+     "left": 79,
+     "right": 31
+    },
+    "sections": [
+     {
+      "sel": "div.product-stage",
+      "tag": "div",
+      "top": 40,
+      "height": 1167,
+      "words": 0,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 79,
+      "right": 149,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.ingredient-field",
+      "tag": "div",
+      "top": 0,
+      "height": 1024,
+      "words": 0,
+      "media": 0,
+      "middle": 277,
+      "heading": null,
+      "left": 98,
+      "right": 59,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": true,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [],
+    "edgeText": [],
+    "edges": [],
+    "leftBlocks": 0,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 1,
+   "filled": [
+    0.66
+   ],
+   "motion": {
+    "elements": 21,
+    "css": 21,
+    "transitions": 0,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 844,
+     "screens": 1,
+     "words": 44,
+     "img": 2,
+     "video": 0,
+     "canvas": 0,
+     "svg": 8,
+     "sections": 1,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 2,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "image?url=%2Fimages%2Fraspado-hero.webp&w=1080&q",
+      "image?url=%2Fimages%2Fraspado-hero.webp&w=1080&q"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "la caseta",
+     "words": 2,
+     "chars": 9,
+     "lines": 1,
+     "size": 50.7,
+     "vw": 13,
+     "font": "Bricolage Grotesque",
+     "weight": 800,
+     "tracking": -0.013,
+     "leading": 0.86,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.94,
+     "top": 320,
+     "tag": "span",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "El raspado es primero.",
+     "words": 4,
+     "lines": 2,
+     "size": 41,
+     "font": "Bricolage Grotesque"
+    },
+    "headings": [
+     {
+      "text": "la caseta del sabor",
+      "words": 4,
+      "chars": 19,
+      "lines": 2,
+      "size": 24,
+      "vw": 6.2,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.035,
+      "leading": 0.85,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.33,
+      "top": 32,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "la caseta",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 50.7,
+      "vw": 13,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.013,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 320,
+      "tag": "span",
+      "kind": "heading"
+     },
+     {
+      "text": "del sabor",
+      "words": 2,
+      "chars": 9,
+      "lines": 1,
+      "size": 50.7,
+      "vw": 13,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.013,
+      "leading": 0.86,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 363,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "El raspado es primero.",
+      "words": 4,
+      "chars": 22,
+      "lines": 2,
+      "size": 41,
+      "vw": 10.5,
+      "font": "Bricolage Grotesque",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.95,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 577,
+      "tag": "h1",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 4,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "DM Sans",
+       "share": 0.76,
+       "mono": false
+      },
+      {
+       "family": "Bricolage Grotesque",
+       "share": 0.24,
+       "mono": false
+      }
+     ],
+     "familyCount": 2,
+     "sizes": [
+      11,
+      12,
+      13,
+      15,
+      16,
+      24,
+      41,
+      51
+     ],
+     "sizeCount": 8,
+     "notLoaded": [],
+     "body": null,
+     "measureChars": null,
+     "max": {
+      "size": 50.7,
+      "vw": 13,
+      "font": "Bricolage Grotesque",
+      "text": "la caseta"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.33,
+     "smallText": 3
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#fff4dd",
+     "bodyBgHsl": {
+      "h": 41,
+      "s": 1,
+      "l": 0.93
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#fff4dd",
+       "top": 0,
+       "hsl": {
+        "h": 41,
+        "s": 1,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#71cbc4",
+       "top": 0,
+       "hsl": {
+        "h": 175,
+        "s": 0.46,
+        "l": 0.62
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#4c251e",
+       "share": 0.83
+      },
+      {
+       "color": "#d82643",
+       "share": 0.12
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.05
+      }
+     ],
+     "button": {
+      "bg": "#d82643",
+      "hsl": {
+       "h": 350,
+       "s": 0.7,
+       "l": 0.5
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 2,
+     "inHero": 2,
+     "radius": "pill",
+     "height": 48,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Ver sabores ↗",
+      "Pedir por WhatsApp ↗"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 2,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.57
+     },
+     {
+      "type": "img",
+      "ratio": 0.57
+     }
+    ],
+    "nav": {
+     "links": 0,
+     "fixed": false,
+     "height": 85,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": []
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 844,
+    "margins": {
+     "left": 69,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "div.hero-field.hero-field--cream",
+      "tag": "div",
+      "top": 464,
+      "height": 380,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.hero-field.hero-field--turquoise",
+      "tag": "div",
+      "top": 0,
+      "height": 464,
+      "words": 0,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.product-stage",
+      "tag": "div",
+      "top": 131,
+      "height": 479,
+      "words": 0,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": null,
+      "right": null,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.ingredient-field",
+      "tag": "div",
+      "top": 0,
+      "height": 844,
+      "words": 0,
+      "media": 0,
+      "middle": 122,
+      "heading": null,
+      "left": 110,
+      "right": 24,
+      "textLeft": null,
+      "textRight": null,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     },
+     {
+      "sel": "div.intro-lockup",
+      "tag": "div",
+      "top": 320,
+      "height": 120,
+      "words": 6,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "del sabor",
+       "size": 51,
+       "tag": "strong"
+      },
+      "left": 69,
+      "right": 69,
+      "textLeft": 69,
+      "textRight": 69,
+      "fullBleed": false,
+      "footer": true,
+      "hero": true,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [],
+    "edgeText": [],
+    "edges": [],
+    "leftBlocks": 0,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #fff4dd, section #fff4dd).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 2 picture(s) on the page (2 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt Switzer and Switzer, but the page renders DM Sans, Bricolage Grotesque.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look."
+  },
+  {
+   "level": "FAIL",
+   "id": "late-title",
+   "width": 1440,
+   "message": "The title is not readable 1.2s after the page loaded (it is at 0% opacity).",
+   "fix": "Put the headline in the HTML, painted on the first frame; the load sequence only adds arrival and is settled by 1.2s (references/motion.md, \"Load sequence in 1.2 seconds\"). No preloader, no gate, no waiting for the load event.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The page sits off-centre: its content comes to 147px from the left edge but only to 58px from the right, at 1440px.",
+   "fix": "Give the page one pair of equal margins. Check the wrapper for a max-width without margin-inline: auto, a grid with an empty last column, or padding on one side only. If one side is meant to hold air, it must still be closed by something that reaches the margin (a picture, the navigation's last item, a figure).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "no-title",
+   "width": 1440,
+   "message": "The page has no visible h1.",
+   "fix": "Give the first screen a clear title in an h1 that says what this is (a name with what it does, the product with what it is for, the event with its date and place).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "covered-text",
+   "width": 1440,
+   "message": "Large text lies under another element at some scroll position: \"la caseta\" (screen 1, 50% hidden)",
+   "fix": "Nothing may sit on top of a headline or statement. Move the picture, shorten the pinned run, or raise the text above it (z-index) and give it a ground.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "small-text",
+   "width": 390,
+   "message": "3 text block(s) under 13px.",
+   "fix": "Nothing meant to be read goes below 13px."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "C:\\Users\\LG\\OneDrive\\Documentos\\ChatGPT\\Heladería Victoria 2\\.taste-skill\\inspect-final\\desktop-fold.jpg",
+   "pages": [
+    "C:\\Users\\LG\\OneDrive\\Documentos\\ChatGPT\\Heladería Victoria 2\\.taste-skill\\inspect-final\\desktop-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "C:\\Users\\LG\\OneDrive\\Documentos\\ChatGPT\\Heladería Victoria 2\\.taste-skill\\inspect-final\\tablet-fold.jpg",
+   "pages": [
+    "C:\\Users\\LG\\OneDrive\\Documentos\\ChatGPT\\Heladería Victoria 2\\.taste-skill\\inspect-final\\tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "C:\\Users\\LG\\OneDrive\\Documentos\\ChatGPT\\Heladería Victoria 2\\.taste-skill\\inspect-final\\mobile-fold.jpg",
+   "pages": [
+    "C:\\Users\\LG\\OneDrive\\Documentos\\ChatGPT\\Heladería Victoria 2\\.taste-skill\\inspect-final\\mobile-page-01.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
