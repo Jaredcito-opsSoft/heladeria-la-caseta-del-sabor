@@ -1,9 +1,17 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
   title: "La caseta del sabor | El raspado es primero",
   description: "Raspados clásicos y gourmet en Tuxtla Gutiérrez, Chiapas.",
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
+  interactiveWidget: "resizes-content",
+  themeColor: "#fff4dd",
 };
 
 const introBoot = `try {
